@@ -12,3 +12,7 @@ After implementing the algorithm in Python:
  # zoom in: 
  
  <a href="https://ibb.co/ws4vmzv"><img src="https://i.ibb.co/8c9hZ7h/image.png" alt="image" border="0"></a>
+ 
+ 
+ # Another example where all values are equal for each person per item
+<a href="https://ibb.co/mDZfh1k"><img src="https://i.ibb.co/98KQyz6/image.png" alt="image" border="0"></a>
